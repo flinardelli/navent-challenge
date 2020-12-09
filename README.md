@@ -1,14 +1,14 @@
 # Dasafío Navent
 
 ## General
-    - Se realizó una API Rest para el desafío
-    - Se utilizó java 8 para el desarrollo de la api.
-    - Se creo el proyecto con el manejador de dependencias maven.
-    - El IDE utilizado fue Spring Tool Suite 4.
-    - Se utilizó lombok para facilitar la creación de instancias de objetos (utilizando builder) y declaración de métodos setter, getter y constructores. Este se debe de instalar como plugin en el IDE: [lombok oficial](https://projectlombok.org/download).
-    - Se utilizó Swagger para documentar la api.
-    - Se utilizó ModelMapper para mapear dtos con entidades.
-    - La aplicación se ejecuta en el puerto 8090.
+- Se realizó una API Rest para el desafío
+- Se utilizó java 8 para el desarrollo de la api.
+- Se creo el proyecto con el manejador de dependencias maven.
+- El IDE utilizado fue Spring Tool Suite 4.
+- Se utilizó lombok para facilitar la creación de instancias de objetos (utilizando builder) y declaración de métodos setter, getter y constructores. Este se debe de instalar como plugin en el IDE: [lombok oficial](https://projectlombok.org/download).
+- Se utilizó Swagger para documentar la api.
+- Se utilizó ModelMapper para mapear dtos con entidades.
+- La aplicación se ejecuta en el puerto 8090.
 
 ## 1
 
